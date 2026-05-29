@@ -52,18 +52,6 @@ Project ini menunjukkan bagaimana teknik phishing dan social engineering bekerja
 
 ---
 
-# 📂 Project Structure
-
-```bash
-Gmail-Phish/
-│
-├── gphis.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 # ⚙️ Installation
 
 ### 1️⃣ Clone Repository
