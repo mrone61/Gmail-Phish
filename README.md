@@ -41,17 +41,6 @@ Project ini menunjukkan bagaimana teknik phishing dan social engineering bekerja
 
 ---
 
-# 🛠 Technologies Used
-
-| Technology | Description               |
-| ---------- | ------------------------- |
-| Python 3   | Main Programming Language |
-| Flask      | Web Framework             |
-| HTML5      | Frontend Structure        |
-| CSS3       | User Interface Styling    |
-
----
-
 # ⚙️ Installation
 
 ### 1️⃣ Clone Repository
