@@ -1,6 +1,6 @@
 <div align="center">
 
-# GPhis
+# Gmail-Phish
 
 ### Educational Phishing Simulation Project
 
@@ -16,7 +16,7 @@ Simulasi phishing berbasis Flask untuk pembelajaran cyber security dan awareness
 
 # 📌 Tentang Project
 
-**GPhis** adalah project simulasi phishing berbasis Python Flask yang dibuat untuk tujuan pembelajaran cyber security secara etis.
+**Gmail-Phish** adalah project simulasi phishing berbasis Python Flask yang dibuat untuk tujuan pembelajaran cyber security secara etis.
 
 Project ini menunjukkan bagaimana teknik phishing dan social engineering bekerja dalam meniru halaman login agar pengguna memahami:
 
@@ -76,13 +76,13 @@ cd Gmail-Phish
 ### 2️⃣ Install Dependencies
 
 ```bash
-pip install flask
+pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run Program
 
 ```bash
-python app.py
+python gphis.py
 ```
 
 ---
