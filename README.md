@@ -14,7 +14,7 @@ Simulasi phishing berbasis Flask untuk pembelajaran cyber security dan awareness
 
 ---
 
-# 📌 Tentang Project
+# 📌 Deskripsi Project
 
 **Gmail-Phish** adalah project simulasi phishing berbasis Python Flask yang dibuat untuk tujuan pembelajaran cyber security secara etis.
 
